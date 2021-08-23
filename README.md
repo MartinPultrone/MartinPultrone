@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Martin
-![](https://github.com/MartinPultrone/MartinPultrone/blob/main/img/brutus.jpg?raw=true)
-
 I am training to become a Full Stack Developer
 
 Skills: HTML / CSS / JS / PYTHON
