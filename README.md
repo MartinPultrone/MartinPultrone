@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Martin
-![](https://github.com/MartinPultrone/MartinPultrone/blob/main/brutus1.jpg?raw=true)
+![](https://github.com/MartinPultrone/MartinPultrone/blob/main/img/EwyWusIXEAYk9Ig.png?raw=true)
 
 I am training to become a Full Stack Developer.
 
