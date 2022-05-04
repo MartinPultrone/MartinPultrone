@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Martin
-I am training to become a Full Stack Developer.
-
+Full Stack Developer.
 Skills: HTML / CSS / JS / REACT JS / PYTHON
 
 
