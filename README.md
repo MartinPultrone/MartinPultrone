@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Martin
-Full Stack Developer.
+Front-end Developer.
 
 Skills: HTML / CSS / JS / REACT JS / PYTHON
 
